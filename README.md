@@ -2,8 +2,8 @@
 
 My name is Bibin Babuji and welcome to my Github Profile.
 
-- Cybersecurity Graduate @ Iarnród Éireann
-- Personal Website https://bibinbabuji.com
+- 🚄 Cybersecurity Graduate @ Iarnród Éireann
+- 📑 Personal Website https://bibinbabuji.com
 
 <!--
 **BibinBabuji/bibinbabuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
